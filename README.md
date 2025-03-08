@@ -17,8 +17,9 @@
 ## Citation
 If our work is helpful to you, please consider citing us by using the following BibTeX entry:
 
+## Pre-training on Source Data
 
-## Usage
+## Fine-tuning on Target Data
 ### 1.Requirements
   Code is tested under Pytorch 1.9.1, python 3.6.10, and CUDA 11.3 
   
