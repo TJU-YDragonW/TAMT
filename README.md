@@ -38,6 +38,6 @@ hmdb51_org
 
 ```
 cd scripts/hmdb51/run_meta_deepbdc
-sh run_metatrain.sh #for train and test, for individual training or testing, please comment out parts of the code yourself.
+sh run_metatrain.sh    #For train and test, for individual training or testing, please comment out parts of the code yourself.
 ```
  
