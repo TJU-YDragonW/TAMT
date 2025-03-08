@@ -12,7 +12,7 @@
 ## TODO
 
 - [ ] Release the code.
-- [√] Release the [arxiv preprint](https://arxiv.org/pdf/2411.19041).
+- [x] Release the [arxiv preprint](https://arxiv.org/pdf/2411.19041).
 
 ## Citation
 If our work is helpful to you, please consider citing us by using the following BibTeX entry:
