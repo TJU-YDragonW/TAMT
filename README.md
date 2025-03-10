@@ -28,9 +28,8 @@ If our work is helpful to you, please consider citing us by using the following 
 
 - [einops](https://github.com/arogozhnikov/einops)
   
-```
-or see the requirements_all.txt for detailed libraries.
-```
+Or see the requirements_all.txt for detailed libraries.
+
 ### 2.Dataset
   
   Put the data the same with your filelist:  
