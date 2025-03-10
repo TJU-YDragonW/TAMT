@@ -21,10 +21,15 @@ If our work is helpful to you, please consider citing us by using the following 
 
 ## Fine-tuning on Target Data
 ### 1.Requirements
-  Code is tested under Pytorch 1.9.1, python 3.6.10, and CUDA 11.3 
+  Code is tested under Pytorch 1.9.1, python 3.6.10, and CUDA 11.3. Mainly libraries:
+- [timm](https://github.com/rwightman/pytorch-image-models)
+
+- [decord](https://github.com/dmlc/decord)
+
+- [einops](https://github.com/arogozhnikov/einops)
   
 ```
-pip install -r requirements.txt
+or see the requirements_all.txt for detailed libraries.
 ```
 ### 2.Dataset
   
