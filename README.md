@@ -11,7 +11,8 @@
 
 ## TODO
 
-- [ ] Release the code.
+- [x] Release the code.
+- [x] Release the models.
 - [x] Release the [arxiv preprint](https://arxiv.org/pdf/2411.19041).
 
 ## Citation
