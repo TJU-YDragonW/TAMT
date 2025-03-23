@@ -48,11 +48,13 @@ sh run_test.sh    # For test only.
 sh run_metatrain.sh    # For train and test, for individual training or testing, please comment out parts of the code yourself.
 ```
 
-## Model
+## Pre-trained Model
 The following table shows the Pre-trained Model on K-400(364 classes) with 112 × 112 resolution.
 |Pre-trained Model| Checkpoint|
 | ------- | -------------------------- |
 | vit_s | [Download](https://drive.google.com/file/d/1VZnFspeWyQqA1stHi68aBQWsJN4vzyJv/view?usp=sharing) |
+
+## Finetuned Model
  The following table shows the results of TAMT on CDFSAR setting in terms of 5-way 5-shot accuracy.
 |Dataset           | 5-way 5-shot Acc(%) | Checkpoint|
 | --------- | ------- | -------------------------- |
