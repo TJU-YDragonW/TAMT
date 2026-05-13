@@ -17,8 +17,17 @@
 
 ## Citation
 If our work is helpful to you, please consider citing us by using the following BibTeX entry:
+@inproceedings{wang2025tamt,
+  title={TAMT: Temporal-aware model tuning for cross-domain few-shot action recognition},
+  author={Wang, Yilong and Gao, Zilin and Wang, Qilong and Chen, Zhaofeng and Li, Peihua and Hu, Qinghua},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={3449--3459},
+  year={2025}
+}
 
 ## Pre-training on Source Data
+The pre-training pipeline strictly follows the official VideoMAE implementation (https://github.com/MCG-NJU/VideoMAE/tree/main). 
+For the ViT-S model, we conduct self-supervised learning (SSL) for 400 epochs and supervised learning (SL) for 140 epochs, with a fixed frame resolution of 112×112.
 
 ## Fine-tuning on Target Data
 ### 1.Requirements
