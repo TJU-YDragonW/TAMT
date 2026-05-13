@@ -17,6 +17,7 @@
 
 ## Citation
 If our work is helpful to you, please consider citing us by using the following BibTeX entry:
+```markdown
 @inproceedings{wang2025tamt,
   title={TAMT: Temporal-aware model tuning for cross-domain few-shot action recognition},
   author={Wang, Yilong and Gao, Zilin and Wang, Qilong and Chen, Zhaofeng and Li, Peihua and Hu, Qinghua},
@@ -24,6 +25,7 @@ If our work is helpful to you, please consider citing us by using the following 
   pages={3449--3459},
   year={2025}
 }
+```
 
 ## Pre-training on Source Data
 The pre-training pipeline strictly follows the official VideoMAE implementation (https://github.com/MCG-NJU/VideoMAE/tree/main). 
